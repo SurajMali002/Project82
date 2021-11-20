@@ -160,6 +160,6 @@ const styles = StyleSheet.create({
         borderWidth: RFValue(1),
         borderRadius: RFValue(10),
         paddingLeft: RFValue(10),
-        color: "white"
+        color: "black"
     }
 });
